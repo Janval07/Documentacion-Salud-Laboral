@@ -1,0 +1,7 @@
+Links del Proyecto final:
+
+GitHub del Proyecto Fuente:
+https://github.com/Janval07/SaludLaboral.git
+
+Link de Proyecto Final en Azure:
+https://saludlaboral6touaa-f8gccmcccghddqad.mexicocentral-01.azurewebsites.net/
